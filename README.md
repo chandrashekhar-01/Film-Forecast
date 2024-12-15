@@ -4,7 +4,7 @@ FilmForecast is a machine learning project aimed at predicting box office perfor
 
 #Features:
 - Predict box office revenue based on movie features like budget, genre, director, and cast.
-- Classify movies into "hit" or "flop" categories using classification models.
+- Classify movies into "Hit" or "Flop" categories using classification models.
 - Visualize relationships between movie characteristics and their box office performance.
 
 #Goal:
